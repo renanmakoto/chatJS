@@ -17,7 +17,7 @@ TECHNOLOGIES USED:
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/64px-JavaScript-logo.png" /></a>
 <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width: 64px; height: 64px;" /></a>
 <a href="https://expressjs.com/"><img src="https://camo.githubusercontent.com/423664f678fc08582fa8c2e5999d6eef9225631dcac55e3b3a66a90a0edb6bf7/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f657870726573732d3130392e737667" style="width: 204px; height: 44px;" /></a> 
-<a href="https://socket.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" style="width: 204px; height: 44px;" /></a>
+<a href="https://socket.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" style="width: 300px; height: 100px;" /></a>
 
 </div>
 
